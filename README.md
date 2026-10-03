@@ -4,6 +4,8 @@ Windows tool for replacing RE Engine `.oft.1` fonts through loose files or expor
 
 用于通过离散文件替换 RE Engine 游戏 `.oft.1` 字体，也可以导出 Fluffy Mod Manager ZIP 模组。
 
+![App Screenshot](app.png)
+
 ## Features / 功能
 
 - TTF/OTF validation and RE Engine font conversion / TTF、OTF 校验与 RE Engine 字体转换
