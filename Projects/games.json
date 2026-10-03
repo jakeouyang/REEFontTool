@@ -1,0 +1,289 @@
+[
+  {
+    "id": "owots",
+    "name": "ONIMUSHA: WAY OF THE SWORD",
+    "zh": "鬼武者：剑之道",
+    "list": "OWOTS_STM_Release.list",
+    "executables": [
+      "OnimushaWotS.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/ui_font/fzbwks_gb18030.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re2",
+    "name": "RESIDENT EVIL 2",
+    "zh": "生化危机 2 · DX11",
+    "list": "RE2_PC_Release.list",
+    "executables": [
+      "re2.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/x64/sectionroot/ui/ui0000/font/myingheiprc-w5.oft.1"
+      ],
+      "tc": [
+        "natives/x64/sectionroot/ui/ui0000/font/mheihk-medium.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re3",
+    "name": "RESIDENT EVIL 3",
+    "zh": "生化危机 3 · DX11",
+    "list": "RE3_PC_Release.list",
+    "executables": [
+      "re3.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/escape/ui/ui0000/font/myingheiprc-w5.oft.1"
+      ],
+      "tc": [
+        "natives/stm/escape/ui/ui0000/font/mheihk-medium.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re4",
+    "name": "RESIDENT EVIL 4",
+    "zh": "生化危机 4",
+    "list": "RE4_PC_Release.list",
+    "executables": [
+      "re4.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/_chainsaw/ui/ui0000/font/cs_mxiangheheiscpro-book.oft.1"
+      ],
+      "tc": [
+        "natives/stm/_chainsaw/ui/ui0000/font/cs_mxiangheheitc-book.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re8",
+    "name": "RESIDENT EVIL VILLAGE",
+    "zh": "生化危机 8：村庄",
+    "list": "RE8_PC_Release.list",
+    "executables": [
+      "re8.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/ui0000/font/mxiangheheiscpro-regular.oft.1"
+      ],
+      "tc": [
+        "natives/stm/gui/ui0000/font/mxiangheheitc-regular.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "dmc5",
+    "name": "DEVIL MAY CRY 5",
+    "zh": "鬼泣 5",
+    "list": "DMC5_PC_Release.list",
+    "executables": [
+      "DevilMayCry5.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/x64/ui/gui/ui0000/font/fotc-arcrystalzhongheigbm.oft.1",
+        "natives/x64/ui/gui/ui0000/font/fotc-arcuheigbbold.oft.1",
+        "natives/x64/ui/gui/ui0000/font/fotc-arzhongyuangbm.oft.1"
+      ],
+      "tc": [
+        "natives/x64/ui/gui/ui0000/font/myingheihk-w4.oft.1",
+        "natives/x64/ui/gui/ui0000/font/myingheihk-w7.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "mhr",
+    "name": "MONSTER HUNTER RISE",
+    "zh": "怪物猎人：崛起",
+    "list": "MHR_PC_Release.list",
+    "executables": [
+      "MonsterHunterRise.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/01_common/font/myingheiprc-w5.oft.1",
+        "natives/stm/gui/01_common/font/myingheiprc-w5_gb18030_2022.oft.1"
+      ],
+      "tc": [
+        "natives/stm/gui/01_common/font/myingheihk-w5.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "dd2",
+    "name": "DRAGON'S DOGMA 2",
+    "zh": "龙之信条 2",
+    "list": "DD2_PC_Release.list",
+    "executables": [
+      "DD2.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/ui01/font/fzkt_gb18030_v1.oft.1"
+      ],
+      "tc": [
+        "natives/stm/gui/ui01/font/msunghk-medium.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re7",
+    "name": "RESIDENT EVIL 7 · DX11",
+    "zh": "生化危机 7 · DX11",
+    "list": "RE7_PC_Release.list",
+    "executables": [
+      "re7.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/x64/ui/ui0000/font/fzht_gb18030.oft.1"
+      ],
+      "tc": [
+        "natives/x64/ui/ui0000/font/fzhtb_big5.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re7rt",
+    "name": "RESIDENT EVIL 7 · RT",
+    "zh": "生化危机 7 · 光追版",
+    "list": "RE7_RT_PC_Release.list",
+    "executables": [
+      "re7.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/ui/ui0000/font/fzht_gb18030.oft.1"
+      ],
+      "tc": [
+        "natives/stm/ui/ui0000/font/fzhtb_big5.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re7zrt",
+    "name": "RESIDENT EVIL 7 · Z RT",
+    "zh": "生化危机 7 · Z 光追版",
+    "list": "RE7Z_RT_PC_Release.list",
+    "executables": [
+      "re7.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/ui/ui0000/font/fzht_gb18030.oft.1"
+      ],
+      "tc": [
+        "natives/stm/ui/ui0000/font/fzhtb_big5.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "re8z",
+    "name": "RESIDENT EVIL VILLAGE · Z",
+    "zh": "生化危机 8 · Z 版",
+    "list": "RE8Z_PC_Release.list",
+    "executables": [
+      "re8.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/ui0000/font/mxiangheheiscpro-regular.oft.1"
+      ],
+      "tc": [
+        "natives/stm/gui/ui0000/font/mxiangheheitc-regular.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "sf6",
+    "name": "STREET FIGHTER 6",
+    "zh": "街头霸王 6",
+    "list": "SF6_PC_Release.list",
+    "executables": [
+      "StreetFighter6.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/product/appsys/config/gui/mgothicgoldprc-medium.oft.1",
+        "natives/stm/product/appsys/config/gui/mkai2prc-black.oft.1",
+        "natives/stm/product/appsys/config/gui/mxiangheheiscpro-bold-2022.oft.1",
+        "natives/stm/product/appsys/config/gui/mxiangheheiscpro-bold.oft.1",
+        "natives/stm/product/appsys/config/gui/mxiangheheiscstd-book.oft.1"
+      ],
+      "tc": [
+        "natives/stm/product/appsys/config/gui/mgothicgoldhk-medium.oft.1",
+        "natives/stm/product/appsys/config/gui/mxiangheheitc-bold.oft.1",
+        "natives/stm/product/appsys/config/gui/mxiangheheitc-book.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "kgpg",
+    "name": "KUNITSU-GAMI: PATH OF THE GODDESS",
+    "zh": "祇：女神之道",
+    "list": "KGPG_PC_Release.list",
+    "executables": [
+      "KunitsuGami.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/ui/ui0000/font/fzbwks_gb18030.oft.1",
+        "natives/stm/ui/ui0000/font/fzlb_gb18030.oft.1",
+        "natives/stm/ui/ui0000/font/fzltxih_gb18030.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "ajaat",
+    "name": "APOLLO JUSTICE: ACE ATTORNEY TRILOGY",
+    "zh": "逆转裁判 456 王泥喜精选集",
+    "list": "AJ_AAT_PC_Release.list",
+    "executables": [
+      "GS456.exe"
+    ],
+    "fonts": {
+      "sc": [
+        "natives/stm/gui/font/outlinefont/fzxbs_gb18030_apollozhcn.oft.1",
+        "natives/stm/gui/font/outlinefont/fzxbs_gb18030_apollozhtw.oft.1",
+        "natives/stm/gui/font/outlinefont/mheiprc-bold.oft.1",
+        "natives/stm/gui/font/outlinefont/mheiprc-xbold.oft.1",
+        "natives/stm/gui/font/outlinefont/mliprc-bold.oft.1",
+        "natives/stm/gui/font/outlinefont/mmarkerprc-bold_apollo.oft.1",
+        "natives/stm/gui/font/outlinefont/mstiffheiprc-bold.oft.1",
+        "natives/stm/gui/font/outlinefont/msungprc-bold.oft.1",
+        "natives/stm/gui/font/outlinefont/msungprc-medium.oft.1",
+        "natives/stm/gui/font/outlinefont/msungprc-xbold.oft.1",
+        "natives/stm/gui/font/outlinefont/myuenprc-semibold.oft.1"
+      ],
+      "tc": [
+        "natives/stm/gui/font/outlinefont/mheihk-medium.oft.1",
+        "natives/stm/gui/font/outlinefont/mheihk-xbold.oft.1",
+        "natives/stm/gui/font/outlinefont/mstiffheihk-bold.oft.1"
+      ]
+    }
+  },
+  {
+    "id": "ggr",
+    "name": "GHOSTS 'N GOBLINS RESURRECTION",
+    "zh": "经典回归 魔界村",
+    "list": "GGR_PC_Release.list",
+    "executables": [
+      "makaimura_GG_RE.exe"
+    ],
+    "fonts": {
+      "tc": [
+        "natives/stm/ui/ui0000/font/mheihk-medium.oft.1"
+      ]
+    }
+  }
+]
