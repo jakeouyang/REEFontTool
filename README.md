@@ -49,9 +49,9 @@ Edit `Projects/games.json` and add the matching `.list` file. Each entry needs a
 
 编辑 `Projects/games.json` 并加入对应 `.list`。每项需要唯一 `id`、显示名称、`list`、Windows 游戏 EXE，以及非空的 `fonts.sc`、`fonts.tc` 或 `fonts.en`。字体路径必须存在于 list、以 `natives/` 开头并以 `.oft.1` 结尾。不要仅凭文件名判断语言，应通过提取、解密和游戏内测试确认。
 
-See [ADDING-GAMES.zh-CN.md](ADDING-GAMES.zh-CN.md) and `Projects-audit.csv` for the mapping workflow and list audit.
+See [ADDING-GAMES.zh-CN.md](ADDING-GAMES.zh-CN.md) for the mapping workflow.
 
-新增映射流程见 [ADDING-GAMES.zh-CN.md](ADDING-GAMES.zh-CN.md)，列表审计见 `Projects-audit.csv`。
+新增映射流程见 [ADDING-GAMES.zh-CN.md](ADDING-GAMES.zh-CN.md)。
 
 ## Build / 构建
 

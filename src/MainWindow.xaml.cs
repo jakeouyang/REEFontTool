@@ -42,7 +42,7 @@ public partial class MainWindow : Window {
   Games.Visibility=results.Length==0?Visibility.Hidden:Visibility.Visible;
   ExportButton.IsEnabled=ReplaceButton.IsEnabled=RestoreButton.IsEnabled=BrowseDirectory.IsEnabled=results.Length>0;
  }
- void Bilibili(object sender,RoutedEventArgs e) { try { Process.Start(new ProcessStartInfo("https://space.bilibili.com/8480063"){UseShellExecute=true}); } catch(Exception ex) { Log(ex.Message); } }
+ void GitHub(object sender,RoutedEventArgs e) { try { Process.Start(new ProcessStartInfo("https://github.com/jakeouyang/REEFontTool"){UseShellExecute=true}); } catch(Exception ex) { Log(ex.Message); } }
  void GameChanged(object sender,System.Windows.Controls.SelectionChangedEventArgs e) {
   if(DirectoryBox==null||filtering) return; DirectoryBox.Clear(); FontBox.Clear();
   foreach(var (box,key) in new[]{(SC,"sc"),(TC,"tc"),(EN,"en")}) { box.IsEnabled=Selected?.Fonts.ContainsKey(key)==true; box.IsChecked=key=="sc"&&box.IsEnabled; box.Visibility=box.IsEnabled?Visibility.Visible:Visibility.Hidden; }
